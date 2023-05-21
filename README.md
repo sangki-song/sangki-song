@@ -1,5 +1,9 @@
 ### Hello World! 👋
 
+🖥  I'm a freshman student of Computer Engineering in College of IT Convergence Engineering, Chosun University
+🌱 I’m currently learning JAVA and C Basic.
+
+
 <!--
 **sangki-song/sangki-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
