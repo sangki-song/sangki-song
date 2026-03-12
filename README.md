@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-🖥  I'm a freshman student of Computer Engineering in College of IT Convergence Engineering, Chosun University
+🖥  I'm a student of Computer Engineering in College of IT Convergence Engineering, Chosun University
 
 🌱 I’m currently learning JAVA and C Basic.
 
