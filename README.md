@@ -2,8 +2,11 @@
 
 🖥  I'm a student of Computer Engineering in College of IT Convergence Engineering, Chosun University
 
-🌱 I’m currently learning JAVA and C Basic.
+🌱 I’m currently learning JAVA and C++.
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{sangki-song}"/>
+</a>
 
 <!--
 **sangki-song/sangki-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
